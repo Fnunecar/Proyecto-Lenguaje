@@ -49,7 +49,7 @@
     display: none;
 }
 
-.avisolegal {
+.cookies {
     text-align: justify;
     margin-left: 5%;
     margin-right: 5%;
@@ -92,12 +92,12 @@ h1 {
 
 .footer {
     background-color: #bca1a1;
-    padding: 0;
+    position: absolute;
     text-align: center;
+    padding-top: 10px;
     bottom: 0;
     width: 100%;
-    position: fixed;
-    display: block;
+    height: 100px;
 }
 
 .footer a {
@@ -117,5 +117,6 @@ h1 {
         bottom: 0;
     }
 }
+
 
 
