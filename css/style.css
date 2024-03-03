@@ -14,7 +14,9 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    background-color: greenyellow;
+    background-color: rgb(185, 226, 121);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
     
    
 }
@@ -23,6 +25,7 @@
     display: flex;
     width: 50%;
     margin-top: 8px;
+
 }
 .elemento img{
     width: 150px;    
@@ -110,6 +113,7 @@
     background-color: #bca1a1;
     position: absolute;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 10px;
     bottom: 0;
     width: 100%;
